@@ -1,4 +1,6 @@
-# go-experiments
+# GO experiments
+
+Playground for GO simple scripts
 
 ## 1 - How to run container
 
